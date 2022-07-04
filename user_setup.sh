@@ -1,6 +1,6 @@
 #!/bin/bash
 
-now=`date +%d%b%Y-%H%M`
+now='date +%d%b%Y-%H%M'
 
 exp()
 {
